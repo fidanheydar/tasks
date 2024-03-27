@@ -1,0 +1,28 @@
+body {
+    margin: 0;
+    box-sizing: border-box;
+}
+
+.container {
+    width: 960px;
+}
+
+.custom-select {
+    border: 1px solid #ced4da;
+    border-radius: .25rem;
+}
+
+.btn-lg {
+    width: 617px;
+    padding: .5rem 1rem;
+    font-size: 1.25rem;
+    line-height: 1.5;
+    border-radius: .3rem;
+}
+.badge{
+    background-color: #6c757d;
+  border-radius: 50%;
+}
+.list-inline a{
+    text-decoration: none;
+}
